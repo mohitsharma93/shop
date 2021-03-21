@@ -1,0 +1,3 @@
+export const  ADD_TO_CART_REQ = 'ADD_TO_CART_REQ';
+export const  REMOVE_ITEM_CART_REQ = 'REMOVE_ITEM_CART_REQ';
+export const  SHIPPING_INFO = 'SHIPPING_INFO';
